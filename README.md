@@ -9,3 +9,7 @@
 - CSS Modules
 - Sass
 - Prettier - Code formatter (esbenp.prettier-vscode)
+
+# Node packages
+
+- "npm install axios"
